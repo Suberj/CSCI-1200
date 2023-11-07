@@ -135,21 +135,6 @@ The timing experiment data shows that the algorithm takes a reasonable
 amount of time to complete for all input images, with the largest input 
 image data_structures_300x300.ppm taking only about 0.745 seconds to complete.
 
-==============================================================
-DISTANCE FIELD VISUALIZATIONS FOR EXTRA CREDIT:
-
-
-
-
-FAST MARCHING METHOD (with a hash table) FOR EXTRA CREDIT:
-
-Order Notation:
-
-Timing Experiment Data:
-
-Discussion:
-
-
 
 MISC. COMMENTS TO GRADER:  
 Optional, please be concise!
